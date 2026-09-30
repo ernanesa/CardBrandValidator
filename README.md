@@ -7,6 +7,8 @@
 [![PCI-DSS Compliant](https://img.shields.io/badge/Security-PCI--DSS%20Compliant-blue?style=for-the-badge&logo=shield)](src/CardBrandValidator.Core/)
 [![DIO Bootcamp](https://img.shields.io/badge/DIO-TIVIT%20.NET-red?style=for-the-badge)](https://web.dio.me/track/tivit-net-github-copilot)
 
+> 🌐 **Language / Idioma:** **Português** | [English](README.en.md)
+
 Motor de alta performance em **.NET 10 / C#** para identificação instantânea de bandeiras de cartão de crédito e validação matemática de integridade via **Algoritmo de Luhn (ISO/IEC 7812)**, desenvolvido para o Desafio de Projeto do Bootcamp **TIVIT - .Net com GitHub Copilot** na plataforma da **DIO**.
 
 ---
