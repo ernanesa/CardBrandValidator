@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CardBrandValidator.Core/CardBrandValidator.Core.csproj" />
+    <Project Path="src/CardBrandValidator.Cli/CardBrandValidator.Cli.csproj" />
+    <Project Path="src/CardBrandValidator.Api/CardBrandValidator.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CardBrandValidator.Tests/CardBrandValidator.Tests.csproj" />
+  </Folder>
+</Solution>
